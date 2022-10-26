@@ -1,0 +1,9 @@
+<library path="lib/libnodelet_basics">
+  <class name="nodelet_basics/Hello_World"
+               type="nodelet_basics::Hello_World"
+               base_class_type="nodelet::Nodelet">
+          <description>
+                      This nodelet receives a message and publishes it.
+          </description>
+  </class>
+</library>
